@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modin-project/unidist/commit/84dd28ba26c667523519c2372c6fec01881e7c39",
       "git:hexsha": "84dd28ba26c667523519c2372c6fec01881e7c39",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/modin-project/unidist/commit/58ffd9a775532c87cb2c60dd1bcdf0ed6cb9ce89",
